@@ -1,3 +1,3 @@
 # Simblogs
 
-A blog website using Vue.JS frontend and Firebase back-end.
+A blog website using Vue.JS front-end and Firebase back-end.

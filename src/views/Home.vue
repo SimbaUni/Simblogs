@@ -13,7 +13,7 @@
     <div v-if="!user" class="updates">
       <div class="container">
         <h2>never miss a post. Register for your free account today!</h2>
-        <router-link class="router-button" to="#">
+        <router-link class="router-button" :to="{ name: 'Login' }">
           Register for SimBlogs <Arrow class="arrow arrow-light" />
         </router-link>
       </div>
